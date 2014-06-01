@@ -1,7 +1,7 @@
 (function(window) {
 
 var ORIGIN_ = location.protocol + '//' + location.host;
-
+//add something here.
 function SlideController() {
   this.popup = null;
   this.isPopup = window.opener;
