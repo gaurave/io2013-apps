@@ -401,6 +401,7 @@ SlideDeck.prototype.triggerSlideEvent = function(type, slideNo) {
 
 /**
  * @private
+ * something hapeedasi
  */
 SlideDeck.prototype.updateSlides_ = function() {
   var curSlide = this.curSlide_;
